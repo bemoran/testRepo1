@@ -1,8 +1,11 @@
 #include <iostream>
 
 
-int main(){
-std::cout<<"Evan is a stinky bitch";
+int main() {
+
+std::cout<<"gamers rise up";
+
+return 0;
 }
 
 
